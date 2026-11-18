@@ -1,0 +1,4 @@
+# The eval-set sha (lab9.evalset.sha12) hashes file bytes: keep the generated eval data LF on every OS so
+# CI and a Windows checkout compute the same sha as the committed baseline.
+src/data/eval/eval_set_*.jsonl text eol=lf
+src/data/eval/labels_*.json text eol=lf
