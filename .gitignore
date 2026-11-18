@@ -3,3 +3,7 @@ __pycache__/
 src/reports/
 src/traces/
 *.sqlite
+
+# Personal study notes, not part of the submission.
+docs/giai_thich_day09.md
+local_notes/
